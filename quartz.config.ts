@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "your-username.github.io/second-brain",
+    baseUrl: "howardthai.github.io/second-brain-quartz",
     ignorePatterns: ["private", "templates", ".obsidian", "Templates", "Daily Notes"],
     theme: {
       fontOrigin: "googleFonts",
